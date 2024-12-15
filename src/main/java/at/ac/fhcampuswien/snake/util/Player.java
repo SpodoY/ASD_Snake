@@ -3,7 +3,7 @@ package at.ac.fhcampuswien.snake.util;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 
-public class Player {
+public class  Player {
     private final SimpleStringProperty name;
     private final SimpleIntegerProperty score;
 

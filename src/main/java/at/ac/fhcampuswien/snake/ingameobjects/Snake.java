@@ -8,7 +8,7 @@ import java.util.List;
 import static at.ac.fhcampuswien.snake.util.Constants.*;
 
 
-public class Snake {
+public class  Snake {
 
     private int length;
     private boolean positionUpdated;

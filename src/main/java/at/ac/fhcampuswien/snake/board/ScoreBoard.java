@@ -11,7 +11,7 @@ import javafx.scene.text.TextAlignment;
 
 import static at.ac.fhcampuswien.snake.util.Constants.*;
 
-public class ScoreBoard {
+public class  ScoreBoard {
     private final GraphicsContext gc;
 
     public ScoreBoard(Canvas scoreBoardCanvas) {

@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
-public class MainViewController {
+public class  MainViewController {
 
     private static final Logger LOG = LoggerFactory.getLogger(MainViewController.class);
 

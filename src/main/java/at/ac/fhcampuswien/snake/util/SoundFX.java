@@ -5,7 +5,7 @@ import javafx.scene.media.AudioClip;
 import java.net.URISyntaxException;
 import java.util.Objects;
 
-public class SoundFX {
+public class  SoundFX {
 
     private final static String INTRO_SOUND = "/sounds/game-intro.wav";
     private final static String BONUS_POINT_SOUND = "/sounds/bonus-point.wav";

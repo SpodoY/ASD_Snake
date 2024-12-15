@@ -31,7 +31,7 @@ import java.util.*;
 import static at.ac.fhcampuswien.snake.util.Constants.Direction.*;
 import static at.ac.fhcampuswien.snake.util.Constants.*;
 
-public class GameBoard {
+public class  GameBoard {
 
     private final static Logger LOG = LoggerFactory.getLogger(GameBoard.class);
 

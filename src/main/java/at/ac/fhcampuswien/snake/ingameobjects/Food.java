@@ -5,7 +5,7 @@ import at.ac.fhcampuswien.snake.util.StateManager;
 
 import java.util.Objects;
 
-public class Food {
+public class  Food {
 
     private final Position position;
 

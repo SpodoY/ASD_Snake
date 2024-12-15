@@ -9,7 +9,7 @@ import java.io.IOException;
 
 import static at.ac.fhcampuswien.snake.util.Constants.*;
 
-public class GameViewController {
+public class  GameViewController {
 
     protected Stage stage = null;
 

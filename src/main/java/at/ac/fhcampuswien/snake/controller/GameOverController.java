@@ -8,7 +8,7 @@ import javafx.scene.text.Text;
 
 import java.io.IOException;
 
-public class GameOverController {
+public class  GameOverController {
 
     @FXML
     private Text scoreTextField;

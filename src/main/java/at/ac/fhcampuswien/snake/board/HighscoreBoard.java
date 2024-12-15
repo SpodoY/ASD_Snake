@@ -17,7 +17,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_BOARD_WIDTH;
 import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_BOARD_NAME_COL_WIDTH;
 import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_BOARD_SCORE_COL_WIDTH;
 
-public class HighscoreBoard {
+public class  HighscoreBoard {
 
     public HighscoreBoard(VBox vBox) {
         TableView<Player> table = new TableView<>();

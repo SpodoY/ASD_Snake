@@ -15,7 +15,7 @@ import static at.ac.fhcampuswien.snake.util.Constants.HIGHSCORE_SEPARATOR;
 /**
  * Utility Class to read from and save to a text file that stores the high scores.
  */
-public class HighscoreService {
+public class  HighscoreService {
 
     private final static Logger LOG = LoggerFactory.getLogger(HighscoreService.class);
 

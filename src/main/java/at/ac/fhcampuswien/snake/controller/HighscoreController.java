@@ -9,7 +9,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class HighscoreController {
+public class  HighscoreController {
 
     public ImageView logo;
 
